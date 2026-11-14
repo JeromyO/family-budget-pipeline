@@ -1,0 +1,6 @@
+transaction_id,date,description,amount,category
+TXN001,2026-01-02,Example Grocery Store,-85.40,Groceries
+TXN002,2026-01-03,Example Employer,2500.00,Income
+TXN003,2026-01-04,Example Gas Station,-42.15,Transportation
+TXN004,2026-01-05,Example Electric Utility,-125.00,Utilities
+TXN005,2026-01-06,Example Coffee Shop,-6.50,Dining
