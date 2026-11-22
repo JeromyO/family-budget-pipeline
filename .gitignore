@@ -1,0 +1,16 @@
+
+# Private banking exports
+data/raw/
+
+# Local SQLite databases
+*.db
+*.sqlite
+
+# Environment variables and secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
